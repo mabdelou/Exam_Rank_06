@@ -1,0 +1,5 @@
+hello USER this is just a mini test for EOF if your tests and this test work you should valid this exam
+but make sure to close all FDS that you didn't use and i hope for you the best ^^
+
+PLEASE NOTE THAT THE OUTPUT SHOULD DISPLAY ON ONE LINE 
+    AND  "client %d " SHOULD PRINT ONLY ONE TIME ON THIS LINE
